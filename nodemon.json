@@ -1,0 +1,5 @@
+{
+  "watch": ["src/service/**/"],
+  "ext": "ts",
+  "exec": "ts-node --project tsconfig.node.json ./mock-server.ts"
+}
