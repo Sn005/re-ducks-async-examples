@@ -1,0 +1,3 @@
+export const FETCH_BOOKS_START = "BOOKS/FETCH_BOOKS_START" as const;
+export const FETCH_BOOKS_SUCCEED = "BOOKS/FETCH_BOOKS_SUCCEED" as const;
+export const FETCH_BOOKS_FAIL = "BOOKS/FETCH_BOOKS_FAIL" as const;
